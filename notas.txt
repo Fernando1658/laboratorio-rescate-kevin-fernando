@@ -1,4 +1,0 @@
-Git guarda el historial del proyecto.
-Cada commit es una evidencia.
-Las ramas permiten trabajar sin dañar main.
-nose
